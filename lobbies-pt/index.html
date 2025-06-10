@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <head>
+      <meta charset="utf-8">
+      <title>JokenPo Clash - Partida!</title>
+
+      <!-- Open Graph básico -->
+      <meta property="og:title" content="Entre na minha partida no JokenPo Clash!" />
+      <meta property="og:description" content="Clique e venha jogar essa rodada comigo agora!" />
+      <meta property="og:image" content="https://jokenpo-clash.github.io/icone-final.png" />
+      <meta property="og:url" content="https://jokenpo-clash.github.io/lobbies" />
+      <meta property="og:type" content="website" />
+
+      <!-- Twitter Card -->
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content="Entre na minha partida no JokenPo Clash!" />
+      <meta name="twitter:description" content="Clique e venha jogar essa rodada comigo agora!" />
+      <meta name="twitter:image" content="https://jokenpo-clash.github.io/icone-final.png" />
+</head>
+    <script>
+        window.onload = function() {
+            // Pega os parâmetros da URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const lobbyCode = urlParams.get('lobby');
+
+            if (lobbyCode) {
+                // Monta o deep link com o código de lobby vindo da URL
+                window.location.href = `jpclash://gotoclash?lobby=${lobbyCode}`;
+
+                // Fallback opcional
+                setTimeout(function() {
+                    window.location.href = "https://seuprojeto.github.io/jokenpo-lobbies/fallback.html";
+                }, 3000);
+            } else {
+                document.body.innerHTML = "<p>Código do lobby sala não informado.</p>";
+            }
+        }
+    </script>
+</head>
+<body>
+    <p>Se não for redirecionado, <a id="deeplink" href="#">clique aqui</a>.</p>
+</body>
+</html>
