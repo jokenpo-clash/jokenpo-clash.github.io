@@ -1,27 +1,59 @@
-ITALIANO (IT)
+Informativa sulla privacy
 
-Informativa sulla Privacy 
+La presente informativa sulla privacy si applica all'applicazione JOKENPO CLASH (di seguito denominata "Applicazione") per dispositivi mobili, creata da Santiago dos Santos Lovera (di seguito denominato "Fornitore del servizio") come servizio gratuito. Questo servizio è destinato all'uso "COSÌ COM'È".
 
-Questa informativa sulla privacy si applica all'applicazione JOKENPO CLASH (di seguito denominata "Applicazione") per dispositivi mobili, creata da Santiago dos Santos Lovera (di seguito denominato "Fornitore di Servizi") come servizio gratuito. Questo servizio è destinato all'uso "COSÌ COM'È".
+Raccolta e utilizzo delle informazioni
 
+L'Applicazione non raccoglie informazioni quando la scarichi e la utilizzi. Queste informazioni possono includere informazioni quali:
 
-Raccolta e Utilizzo delle Informazioni
-L'Applicazione non raccoglie informazioni quando viene scaricata e utilizzata.
+Accesso di terze parti
 
-Accesso di Terze Parti
-L'Applicazione non condivide dati con terze parti. Il Fornitore di Servizi può divulgare informazioni se richiesto dalla legge o per proteggere diritti e sicurezza.
+L'Applicazione non condivide dati con terze parti.
 
+Servizi Google Play
 
-Diritti di Opt-Out
-È possibile interrompere la raccolta di informazioni disinstallando l'Applicazione tramite le procedure standard del dispositivo.
+Il Fornitore del servizio può divulgare le Informazioni fornite dall'utente e raccolte automaticamente:
 
-Conservazione dei Dati e Bambini
-Il Fornitore di Servizi non conserva i dati forniti dall'utente. L'Applicazione non è rivolta a minori di 13 anni e non raccoglie intenzionalmente i loro dati. Se vengono fornite informazioni da un minore, saranno eliminate immediatamente.
+come richiesto dalla legge, ad esempio per ottemperare a una citazione in giudizio o a un procedimento legale simile;
 
+quando ritiene in buona fede che la divulgazione sia necessaria per proteggere i propri diritti, proteggere la tua sicurezza o quella di altri, indagare su frodi o rispondere a una richiesta governativa;
 
-Sicurezza e Modifiche
-Sono previste tutele fisiche ed elettroniche per proteggere le informazioni. Questa informativa può essere aggiornata e l'uso continuato implica l'accettazione delle modifiche. Efficace dal: 19-09-2024.
+Con i suoi fornitori di servizi di fiducia che lavorano per suo conto, questi non hanno un uso indipendente delle informazioni che divulghiamo loro e hanno accettato di aderire alle regole stabilite nella presente informativa sulla privacy.
 
+Diritti di esclusione
 
-Contatto
-origamipartygame@gmail.com
+È possibile interrompere la raccolta di informazioni da parte dell'Applicazione disinstallandola facilmente. È possibile utilizzare le procedure di disinstallazione standard disponibili sul dispositivo mobile o tramite l'app store o la rete mobile.
+
+Informativa sulla conservazione dei dati
+
+Il Fornitore di servizi non conserverà i dati forniti dall'utente durante l'utilizzo dell'Applicazione. Eventuali domande devono essere indirizzate a origamipartygame@gmail.com e riceveranno risposta entro un termine ragionevole.
+
+Minori
+
+Il Fornitore di Servizi non utilizza l'Applicazione per richiedere intenzionalmente dati o per attività di marketing rivolte a minori di età inferiore ai 13 anni.
+
+L'Applicazione non è rivolta a minori di 13 anni.
+
+Il Fornitore di Servizi non raccoglie intenzionalmente informazioni personali identificabili da minori di 13 anni.
+
+Se il Fornitore di Servizi scopre che un minore di 13 anni ha fornito informazioni personali, le cancellerà immediatamente dai suoi server.
+
+Se sei un genitore o un tutore e sei a conoscenza del fatto che tuo figlio ci ha fornito informazioni personali, ti preghiamo di contattare il Fornitore di Servizi (origamipartygame@gmail.com) affinché possa adottare le misure necessarie.
+
+Sicurezza
+
+Il Fornitore di Servizi si impegna a proteggere la riservatezza delle tue informazioni. Il Fornitore di Servizi fornisce misure di sicurezza fisiche, elettroniche e procedurali per proteggere le informazioni che elabora e conserva.
+
+Modifiche
+
+La presente Informativa sulla privacy può essere aggiornata di volta in volta per qualsiasi motivo. Il Fornitore del Servizio ti informerà di eventuali modifiche all'Informativa sulla Privacy aggiornando questa pagina con la nuova Informativa sulla Privacy. Si consiglia di consultare regolarmente la presente Informativa sulla Privacy per eventuali modifiche, poiché l'uso continuato è considerato accettazione di tutte le modifiche.
+
+La presente Informativa sulla Privacy è in vigore dal 19 settembre 2024.
+
+Il tuo consenso
+
+Utilizzando l'Applicazione, acconsenti al trattamento dei tuoi dati come stabilito nella presente Informativa sulla Privacy ora e come da noi modificato.
+
+Contatti
+
+Per qualsiasi domanda sulla privacy durante l'utilizzo dell'Applicazione o sulle nostre pratiche, contatta il Fornitore del Servizio via e-mail all'indirizzo origamipartygame@gmail.com.

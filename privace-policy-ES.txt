@@ -1,27 +1,59 @@
-ESPANHOL (ES)
+Política de Privacidad
 
-Política de Privacidad 
-
-Esta política de privacidad se aplica a la aplicación JOKENPO CLASH (en adelante, la "Aplicación") para dispositivos móviles, creada por Santiago dos Santos Lovera (en adelante, el "Proveedor de Servicios") como un servicio gratuito. Este servicio se proporciona "TAL CUAL".
-
+Esta política de privacidad se aplica a la aplicación JOKENPO CLASH (en adelante, la "Aplicación") para dispositivos móviles, creada por Santiago dos Santos Lovera (en adelante, el "Proveedor de Servicios") como un servicio gratuito. Este servicio está diseñado para usarse "TAL CUAL".
 
 Recopilación y Uso de Información
-La Aplicación no recopila información cuando usted la descarga y la utiliza.
+
+La Aplicación no recopila información al descargarla y utilizarla. Esta información puede incluir:
 
 Acceso de Terceros
-La Aplicación no comparte datos con terceros. El Proveedor de Servicios puede divulgar información proporcionada por el usuario o recopilada automáticamente según lo exija la ley o para proteger derechos y seguridad.
 
+La Aplicación no comparte datos con terceros.
 
-Derechos de Opt-Out
-Puede detener toda la recopilación de información desinstalando la Aplicación utilizando los procesos estándar de su dispositivo.
+Servicios de Google Play
 
-Retención de Datos y Niños
-El Proveedor de Servicios no retendrá datos del usuario. La Aplicación no está dirigida a menores de 13 años ni recopila intencionalmente sus datos. Si se detecta información de un menor, será eliminada inmediatamente.
+El Proveedor de Servicios podrá divulgar la Información Proporcionada por el Usuario y Recopilada Automáticamente:
 
+según lo exija la ley, por ejemplo, para cumplir con una citación o un proceso legal similar;
 
-Seguridad y Cambios
-Se proporcionan salvaguardas físicas y electrónicas para proteger su información. Esta política puede actualizarse y el uso continuo se considera aprobación de los cambios. Efectiva desde: 2024-09-19.
+cuando considere de buena fe que la divulgación es necesaria para proteger sus derechos, su seguridad o la de terceros, investigar fraudes o responder a una solicitud gubernamental;
 
+Al trabajar en su nombre con sus proveedores de servicios de confianza, estos no tienen derecho a usar la información que les divulgamos de forma independiente y han aceptado cumplir con las normas establecidas en esta declaración de privacidad.
 
-Contacto
-origamipartygame@gmail.com
+Derecho de Exclusión
+
+Puede detener la recopilación de información de la Aplicación desinstalándola fácilmente. Puede utilizar los procesos de desinstalación estándar disponibles en su dispositivo móvil o a través de la tienda de aplicaciones o la red móvil.
+
+Política de Retención de Datos
+
+El Proveedor de Servicios no retendrá los datos proporcionados por el usuario mientras utilice la Aplicación. Si tiene alguna pregunta, envíela a origamipartygame@gmail.com y recibirá respuesta en un plazo razonable.
+
+Niños
+
+El Proveedor de Servicios no utiliza la Aplicación para solicitar datos ni comercializar intencionalmente a menores de 13 años.
+
+La Aplicación no está dirigida a menores de 13 años.
+
+El Proveedor de Servicios no recopila intencionalmente información personal identificable de menores de 13 años.
+
+Si el Proveedor de Servicios descubre que un menor de 13 años ha proporcionado información personal, la eliminará inmediatamente de sus servidores.
+
+Si usted es padre, madre o tutor y sabe que su hijo nos ha proporcionado información personal, póngase en contacto con el Proveedor de Servicios (origamipartygame@gmail.com) para que puedan tomar las medidas necesarias.
+
+Seguridad
+
+El Proveedor de Servicios se preocupa por proteger la confidencialidad de su información. El Proveedor de Servicios proporciona medidas de seguridad físicas, electrónicas y procesales para proteger la información que procesa y mantiene.
+
+Cambios
+
+Esta Política de Privacidad puede actualizarse ocasionalmente por cualquier motivo. El Proveedor de Servicios le notificará cualquier cambio en la Política de Privacidad actualizando esta página con la nueva Política de Privacidad. Le recomendamos consultar esta Política de Privacidad periódicamente para estar al tanto de cualquier cambio, ya que su uso continuado implica la aceptación de todos los cambios.
+
+Esta política de privacidad entra en vigor el 19 de septiembre de 2024.
+
+Su Consentimiento
+
+Al utilizar la Aplicación, usted consiente el procesamiento de su información según lo establecido en esta Política de Privacidad y en sus modificaciones.
+
+Contáctenos
+
+Si tiene alguna pregunta sobre la privacidad al utilizar la Aplicación o sobre las prácticas, póngase en contacto con el Proveedor de Servicios por correo electrónico en origamipartygame@gmail.com.

@@ -1,25 +1,59 @@
-Gizlilik Politikası 
+Gizlilik Politikası
 
-Bu gizlilik politikası, Santiago dos Santos Lovera (bundan böyle "Hizmet Sağlayıcı" olarak anılacaktır) tarafından ücretsiz bir hizmet olarak oluşturulan mobil cihazlara yönelik JOKENPO CLASH uygulaması (bundan böyle "Uygulama" olarak anılacaktır) için geçerlidir. Bu hizmet "OLDUĞU GİBİ" kullanım için tasarlanmıştır.
-+1
+Bu gizlilik politikası, Santiago dos Santos Lovera (bundan sonra "Hizmet Sağlayıcı" olarak anılacaktır) tarafından ücretsiz bir hizmet olarak oluşturulan mobil cihazlar için JOKENPO CLASH uygulaması (bundan sonra "Uygulama" olarak anılacaktır) için geçerlidir. Bu hizmet "olduğu gibi" kullanım içindir.
 
 Bilgi Toplama ve Kullanımı
-Uygulama, indirildiğinde ve kullanıldığında bilgi toplamaz.
+
+Uygulama, indirip kullandığınızda bilgi toplamaz. Bu bilgiler şunları içerebilir:
 
 Üçüncü Taraf Erişimi
-Uygulama, verileri üçüncü taraflarla paylaşmaz. Hizmet Sağlayıcı, yasaların gerektirdiği durumlarda veya hakları ve güvenliği korumak amacıyla bilgileri ifşa edebilir.
-+1
 
-Vazgeçme Hakları
-Uygulamayı cihazınızın standart işlemlerini kullanarak kaldırarak tüm bilgi toplama işlemlerini durdurabilirsiniz.
+Uygulama, verileri üçüncü taraflarla paylaşmaz.
 
-Veri Saklama ve Çocuklar
-Hizmet Sağlayıcı, kullanıcı tarafından sağlanan verileri saklamaz. Uygulama 13 yaşın altındaki çocuklara yönelik değildir ve bilerek veri toplamaz. Bir çocuğun bilgi sağladığı fark edilirse bu veriler derhal silinir.
-+2
+Google Play Hizmetleri
 
-Güvenlik ve Değişiklikler
-Bilgilerinizi korumak için fiziksel ve elektronik korumalar sağlanmaktadır. Bu politika güncellenebilir ve kullanımın devam etmesi değişikliklerin onaylandığı anlamına gelir. Geçerlilik tarihi: 19-09-2024.
-+2
+Hizmet Sağlayıcı, Kullanıcı Tarafından Sağlanan ve Otomatik Olarak Toplanan Bilgileri şu durumlarda açıklayabilir:
 
-İletişim
-origamipartygame@gmail.com
+yasa gereği, örneğin bir mahkeme celbine veya benzeri yasal sürece uymak için;
+
+haklarını korumak, sizin veya başkalarının güvenliğini korumak, dolandırıcılığı araştırmak veya bir devlet talebine yanıt vermek için açıklamanın gerekli olduğuna iyi niyetle inandıklarında;
+
+Güvenilir hizmet sağlayıcıları adına çalışan bu kuruluşlar, kendilerine açıkladığımız bilgileri bağımsız olarak kullanamazlar ve bu gizlilik bildiriminde belirtilen kurallara uymayı kabul etmişlerdir.
+
+**Vazgeçme Hakkı**
+
+Uygulamayı kolayca kaldırarak, Uygulama tarafından yapılan tüm bilgi toplama işlemlerini durdurabilirsiniz. Mobil cihazınızın bir parçası olarak veya mobil uygulama mağazası veya ağ üzerinden mevcut olabilecek standart kaldırma işlemlerini kullanabilirsiniz.
+
+**Veri Saklama Politikası**
+
+Hizmet Sağlayıcı, Uygulamayı kullanırken kullanıcı tarafından sağlanan verileri saklamayacaktır. Herhangi bir sorunuz varsa, origamipartygame@gmail.com adresine yönlendirilmelidir ve makul bir süre içinde cevaplanacaktır.
+
+** Çocuklar
+
+Hizmet Sağlayıcı, Uygulamayı 13 yaşın altındaki çocuklardan kasıtlı olarak veri toplamak veya onlara pazarlama yapmak için kullanmaz.
+
+Uygulama, 13 yaşın altındaki hiç kimseye yönelik değildir.
+
+Hizmet Sağlayıcı, 13 yaşın altındaki çocuklardan kasıtlı olarak kişisel olarak tanımlanabilir bilgiler toplamaz.
+
+Hizmet Sağlayıcı, 13 yaşın altındaki bir çocuğun kişisel bilgiler verdiğini keşfederse, bu bilgileri sunucularından derhal siler.
+
+Eğer bir ebeveyn veya vasiyseniz ve çocuğunuzun bize kişisel bilgiler verdiğinin farkındaysanız, lütfen gerekli adımları atabilmeleri için Hizmet Sağlayıcı ile (origamipartygame@gmail.com) iletişime geçin.
+
+Güvenlik
+
+Hizmet Sağlayıcı, bilgilerinizin gizliliğini korumaya önem vermektedir. Hizmet Sağlayıcı, işlediği ve sakladığı bilgileri korumak için fiziksel, elektronik ve prosedürel güvenlik önlemleri sağlar.
+
+Değişiklikler
+
+Bu Gizlilik Politikası, herhangi bir nedenle zaman zaman güncellenebilir. Hizmet Sağlayıcı, Gizlilik Politikası'ndaki herhangi bir değişikliği, bu sayfayı yeni Gizlilik Politikası ile güncelleyerek size bildirecektir. Uygulamayı kullanmaya devam etmeniz tüm değişikliklerin kabulü olarak kabul edildiğinden, herhangi bir değişiklik için bu Gizlilik Politikası'nı düzenli olarak kontrol etmeniz önerilir.
+
+Bu gizlilik politikası 19 Eylül 2024 tarihinden itibaren geçerlidir.
+
+Onayınız
+
+Uygulamayı kullanarak, bilgilerinizin bu Gizlilik Politikası'nda belirtildiği şekilde ve tarafımızca yapılan değişikliklerle işlenmesine onay vermiş oluyorsunuz.
+
+Bize Ulaşın
+
+Uygulamayı kullanırken gizlilikle ilgili herhangi bir sorunuz varsa veya uygulamalar hakkında sorularınız varsa, lütfen origamipartygame@gmail.com adresinden Hizmet Sağlayıcı ile iletişime geçin.
