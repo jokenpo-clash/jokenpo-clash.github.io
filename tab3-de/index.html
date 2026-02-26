@@ -1,30 +1,42 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="de">
 <head>
     <head>
       <meta charset="utf-8">
-      <title>JokenPo Clash - Tabuleiro!</title>
+      <title>JokenPo Clash - Match!</title>
 
-      <!-- Open Graph básico -->
-      <meta property="og:title" content="Veja esse incrivel tabuleiro do JokenPo Clash!" />
-      <meta property="og:description" content="Clique e veja como ganhar esse tabuleiro!" />
-      <meta property="og:image" content="https://jokenpo-clash.github.io/img-tab-tiranossauro-256.png" />
-      <meta property="og:url" content="https://jokenpo-clash.github.io/tab1" />
+      <meta property="og:title" content="Sieh dir dieses unglaubliche JokenPo Clash Match an!" />
+      <meta property="og:description" content="Klicke hier und schaue dir das Match jetzt an!" />
+      <meta property="og:image" content="https://jokenpo-clash.github.io/icone-match.png" />
+      <meta property="og:url" content="https://jokenpo-clash.github.io/matches" />
       <meta property="og:type" content="website" />
 
-      <!-- Twitter Card -->
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:title" content="Veja esse incrivel tabuleiro do JokenPo Clash!" />
-      <meta name="twitter:description" content="Clique e veja como ganhar esse tabuleiro!" />
-      <meta name="twitter:image" content="https://jokenpo-clash.github.io/img-tab-tiranossauro-256.png" />
+      <meta name="twitter:title" content="Tritt meinem Match in JokenPo Clash bei!" />
+      <meta name="twitter:description" content="Klicke hier und spiele diese Runde jetzt mit mir!" />
+      <meta name="twitter:image" content="https://jokenpo-clash.github.io/icone-match.png" />
 </head>
     <script>
         window.onload = function() {
-            window.location.href = `jpclash://gotoclash?tab=3`;
+            // Pega os parâmetros da URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const matchCode = urlParams.get('match');
+
+            if (matchCode) {
+                // Monta o deep link com o código de lobby vindo da URL
+                window.location.href = `jpclash://gotoclash?match=${matchCode}`;
+
+                // Fallback opcional
+                setTimeout(function() {
+                    window.location.href = "https://jokenpo-clash.github.io/jokenpo-lobbies/fallback.html";
+                }, 3000);
+            } else {
+                document.body.innerHTML = "<p>Match-Code nicht angegeben.</p>";
+            }
         }
     </script>
 </head>
 <body>
-    <p>Se não for redirecionado, <a id="deeplink" href="#">clique aqui</a>.</p>
+    <p>Wenn du nicht weitergeleitet wirst, <a id="deeplink" href="#">klicke hier</a>.</p>
 </body>
 </html>
